@@ -1,0 +1,16 @@
+# Python output
+__pycache__
+*.pyc
+.coverage
+.coverage.*
+.cache
+
+# Python venv folders
+bin
+lib
+lib64
+share
+pyvenv.cfg
+
+# Excel lockfiles
+~$*.xls*
